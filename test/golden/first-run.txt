@@ -1,0 +1,13 @@
+:gauge.with.needle: | sfcolor=#8e8e93,#98989d sfsize=16
+---
+Claude   not read yet | color=#1d1d1f,#f5f5f7
+● bravo   not read yet | color=#1d1d1f,#f5f5f7
+--bravo@example.com
+--In use · not read yet
+---
+Codex   not read yet | color=#1d1d1f,#f5f5f7
+● xray   not read yet | color=#1d1d1f,#f5f5f7
+--xray@example.com
+--In use · not read yet
+---
+Check Now | bash=/Users/example/SwiftBar/router-limits.5m.js param1=check terminal=false refresh=true

@@ -1,0 +1,33 @@
+| sfimage=gauge.with.dots.needle.67percent
+---
+Claude   75% left | color=#1d1d1f,#f5f5f7
+● bravo   70% · 3d old | color=#1d1d1f,#f5f5f7
+--bravo@example.com
+--In use · updated Thu 18:23
+-----
+--Week   70% · resets Mon 21:00 | color=#1d1d1f,#f5f5f7
+--5h   100% | color=#1d1d1f,#f5f5f7
+--Fable week   100% | color=#1d1d1f,#f5f5f7
+○ charlie   81% · 3d old | color=#1d1d1f,#f5f5f7
+--charlie@example.com
+--Idle · updated Thu 17:48
+-----
+--Week   81% · resets Mon 08:00 | color=#1d1d1f,#f5f5f7
+--5h   100% | color=#1d1d1f,#f5f5f7
+--Fable week   89% · resets Mon 08:00 | color=#1d1d1f,#f5f5f7
+○ alpha   76% · 3d old | color=#1d1d1f,#f5f5f7
+--alpha@example.com
+--Idle · updated Thu 13:34
+-----
+--Week   76% · resets Tue 07:00 | color=#1d1d1f,#f5f5f7
+--5h   100% | color=#1d1d1f,#f5f5f7
+--Fable week   100% | color=#1d1d1f,#f5f5f7
+---
+Codex   100% left | color=#1d1d1f,#f5f5f7
+● xray   100% · 3d old | color=#1d1d1f,#f5f5f7
+--xray@example.com
+--In use · updated Thu 17:53
+-----
+--Week   100% | color=#1d1d1f,#f5f5f7
+---
+Check Now | bash=/Users/example/SwiftBar/router-limits.5m.js param1=check terminal=false refresh=true

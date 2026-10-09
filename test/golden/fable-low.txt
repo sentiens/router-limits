@@ -1,0 +1,30 @@
+:gauge.with.dots.needle.67percent: | sfcolor=#d70015,#ff6961 sfsize=16
+---
+Claude   65% left · Fable 7% · back Mon | color=#d70015,#ff6961
+● india   60% · Fable 10% · back Mon | color=#d70015,#ff6961
+--india@example.com
+--In use · updated 18:20
+-----
+--Week   60% · resets Mon 21:00 | color=#1d1d1f,#f5f5f7
+--5h   90% · resets 20:00 | color=#1d1d1f,#f5f5f7
+--Fable week   10% · resets Mon 21:00 | color=#d70015,#ff6961
+○ juliet   70% · Fable 5% · back Tue | color=#d70015,#ff6961
+--juliet@example.com
+--Idle · updated 18:00
+-----
+--Week   70% · resets Tue 09:00 | color=#1d1d1f,#f5f5f7
+--5h   90% · resets 20:00 | color=#1d1d1f,#f5f5f7
+--Fable week   5% · resets Tue 09:00 | color=#d70015,#ff6961
+---
+Codex   65% left | color=#1d1d1f,#f5f5f7
+● xray   65% | color=#1d1d1f,#f5f5f7
+--xray@example.com
+--In use · updated 17:53
+-----
+--Week   65% · resets Oct 15 09:00 | color=#1d1d1f,#f5f5f7
+--5h   90% · resets 21:00 | color=#1d1d1f,#f5f5f7
+○ november   free plan | color=#8e8e93,#98989d
+--november@example.com
+--Idle · free plan
+---
+Check Now | bash=/Users/example/SwiftBar/router-limits.5m.js param1=check terminal=false refresh=true
